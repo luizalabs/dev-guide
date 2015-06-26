@@ -1,6 +1,6 @@
 # Guia de boas práticas para revisão de código
 
-Guia de boas práticas para revisão de código. Inspirado, [entre outros](#referencias), no guia da [thoughtbot](https://github.com/thoughtbot/guides/blob/master/code-review/README.md).
+Guia de boas práticas para revisão de código. Inspirado, [entre outros](#referências), no guia da [thoughtbot](https://github.com/thoughtbot/guides/blob/master/code-review/README.md).
 
 ## Benefícios
 

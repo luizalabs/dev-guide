@@ -5,6 +5,7 @@ Guias e boas práticas de programação para um melhor desenvolvimento de softwa
 ## Guias
 
 - [Revisão de código](code-review/README.md)
+- [Estilo de código](code-style/README.md)
 
 ## Contribuindo
 

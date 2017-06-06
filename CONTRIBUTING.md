@@ -6,8 +6,8 @@ _Issues_ ou _pull requests_ que não estejam de acordo com este guia serão recu
 
 ## Linguagem
 
-- _Commits_, _issues_ e _pull requests_ devem ser feitos em inglês.
-- Revisões podem ser feitas em português para facilitar a comunicação e chegar a um consenso rapidamente.
+- _Commits_ devem ser feitos em inglês.
+- _Issues_, _pull requests_ e revisões podem ser feitas em português para facilitar a comunicação e chegar a um consenso rapidamente.
 
 ## Desenvolvimento
 

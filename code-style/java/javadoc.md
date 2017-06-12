@@ -67,16 +67,7 @@ public void sum(int a, int b) {
 }
 ```
 
-- A tag `@author` sempre deve vir depois de descrição da classe
-
-```java
-/**
- * This is a class.
- *
- * @author author (author at luizalabs.com).
- */
-public class Class {...}
-```
+- A tag `@author` não deve existir já que usamos o git.
 
 - O javadoc deve vir junto ao que ele descrever, **não devem** existir linhas em branco entre o javadoc e o que ele descreve
 

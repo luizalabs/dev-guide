@@ -21,7 +21,9 @@ Inspirado no guia criado pelo @arnaldopereira-luizalabs para o p36.
 ### O que **não** fazer
 - Desenvolver direto no **master**.
 - _Merge_ de _branches_ no **master** antes que o código seja revisado.
-  
+- _Merge_ de _branches_ no **master** antes que todas as discussões tenham se encerrado.
+- _Merge_ de _pull requests_ que tenham _reviews_ pendentes (_requested_ ou ainda não finalizadas)
+
 ## _Commits_
 
 - Faça _commits_ pequenos, que descrevem alterações únicas. (Leia: [Commit Guidelines](https://git-scm.com/book/en/v2/Distributed-Git-Contributing-to-a-Project#Commit-Guidelines)).

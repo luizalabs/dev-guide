@@ -28,7 +28,7 @@ Inspirado no guia criado pelo @arnaldopereira-luizalabs para o p36.
 
 - Faça _commits_ pequenos, que descrevem alterações únicas.
 - Siga as referências sobre como escrever mensagens de _commits_:
-    - [_Commit Guidelines_](https://git-scm.com/book/en/v2/Distributed-Git-Contributing-to-a-Project#Commit-Guidelines)
+    - [_Commit Guidelines_](https://git-scm.com/book/en/v2/Distributed-Git-Contributing-to-a-Project#_commit_guidelines)
     - [_How to Write a Git Commit Message_](https://chris.beams.io/posts/git-commit/)
 - Seja breve e suscinto no título das mensagens do _commit_.
 - Use o corpo da mensagem para explicações adicionais.
